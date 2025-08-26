@@ -1,0 +1,8 @@
+# torch
+# transformers
+pinecone[asyncio]
+fastapi
+uvicorn
+beautifulsoup4
+selenium
+youtube-transcript-api

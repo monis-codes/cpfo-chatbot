@@ -6,3 +6,9 @@ uvicorn
 beautifulsoup4
 selenium
 youtube-transcript-api
+googletrans
+requests
+PyMuPDF
+google.generativeai
+python-dotenv
+scikit-learn

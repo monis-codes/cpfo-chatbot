@@ -2,11 +2,12 @@
 .venv/
 
 # Data
-data/raw/
-data/processed/
+data/
 
 # Models
 models/
+
+.env
 
 # Python
 __pycache__/

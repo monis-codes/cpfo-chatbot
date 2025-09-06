@@ -12,3 +12,8 @@ PyMuPDF
 google.generativeai
 python-dotenv
 scikit-learn
+datasets
+peft
+trl
+bitsandbytes
+accelerate
